@@ -1,0 +1,10 @@
+docker version
+docker run hello-world
+docker pull ubuntu 
+docker run -it ubuntu
+apt-get update && apt-get install -y\
+software-properties-common\
+curl\
+wget \unzip \git \apt-utils \build-essential \gcc \g++ \makecurl -sL https://deb.nodesource.com/setup_20.x | bash -apt-get install -y nodejsapt-get install -y openjdk-11-jdkadd-apt-repository ppa:ethereum/Ethereumapt-get update -yapt-get install -y solcwget https://go.dev/dl/go1.21.3.linux-amd64.tar.gztar -C /usr/local -xzf go1.21.3.linux-amd64.tar.gzrm go1.21.3.linux-amd64.tar.gzapt-get install -y \
+docker.io \libtool \libltdl-dev \libssl-dev \autoconf \automake \bison \libboost-all-dev \libgflags-dev \libprotobuf-dev \
+libleveldb-dev \libsnappy-dev \libsodium-dev \liblz4-toolservice --status-all
