@@ -1,0 +1,22 @@
+//Create and deploy a block chain network using Hyperledger Fabric SDK for Java.
+sudo apt update && sudo apt upgrade
+docker version
+docker compose version
+sudo apt update&& sudo apt upgrade
+curl –v
+sudo apt-get install curl
+go version
+sudo wget https://golang.org/dl/go1.16.3.linux-amd64.tar.gz
+tar xvf go1.16.3.linux-amd64.tar.gz
+export GOPATH=$HOME/go 
+export PATH=$PATH:$GOPATH/bin
+go version
+git -–version
+mkdir -p $HOME/go/src/github.com/
+cd $HOME/go/src/github.com/
+curl -sSL https://bit.ly/2ysbOFE | bash -s 1.4.4
+cd $wsl
+cd go/src/github.com/fabric-samples
+ll
+
+
