@@ -16,6 +16,7 @@ cd $HOME/go/src/github.com/
 curl -sSL https://bit.ly/2ysbOFE | bash -s 1.4.4
 cd $wsl
 cd go/src/github.com/fabric-samples
+cd test-network
 ll
 pwd
 ls
